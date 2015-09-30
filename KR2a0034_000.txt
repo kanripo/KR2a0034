@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史拾遺
-#+DATE: 2015-09-23 09:42:16
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:22:15.212266
+#+PROPERTY: ID KR2a0034
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR2a0034_WYG_000-1a>¶
 欽定四庫全書　　　　史部一¶
 　遼史拾遺　　　　　　　正史類¶
@@ -42,4 +44,3 @@
 　　　　而不論可矣乾隆四十六年四月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-
